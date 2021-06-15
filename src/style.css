@@ -9,8 +9,10 @@
 body {
     font-family: 'Ubuntu', sans-serif;
 }
-
-
+/* MANUALLY ADDED  */
+.disp{
+    display: none;
+  }
 
 .header {
     position: relative;
